@@ -1,0 +1,14 @@
+{
+  "name": "npm-build-workflow",
+  "version": "1.0.0",
+  "description": "This repo contains sample code to test npm workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
